@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.App.Starting" parent="Theme.App">
+        <item name="android:windowSplashScreenBackground">@color/splash_bg</item>
+        <item name="android:windowSplashScreenAnimationDuration">200</item>
+        <item name="android:windowBackground">@drawable/splash_window</item>
+    </style>
+</resources>
